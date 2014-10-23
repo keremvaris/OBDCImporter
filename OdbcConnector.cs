@@ -128,7 +128,7 @@ namespace OdbcImport
                 {
                     var tn = rw[2].ToString();
                     var objType = rw[3].ToString();
-                    if (objType == "TABLE") //&& !exclude.Contains(tn))
+                    if (objType == "TABLE") && !exclude.Contains(tn))
                     {
                         Console.WriteLine("Reading {0}", tn);
 
