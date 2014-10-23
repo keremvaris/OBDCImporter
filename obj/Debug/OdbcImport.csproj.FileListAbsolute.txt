@@ -1,0 +1,9 @@
+D:\src\OdbcImport\OdbcImport\bin\Debug\OdbcImport.exe.config
+D:\src\OdbcImport\OdbcImport\bin\Debug\OdbcImport.exe
+D:\src\OdbcImport\OdbcImport\bin\Debug\OdbcImport.pdb
+D:\src\OdbcImport\OdbcImport\obj\Debug\OdbcImport.csprojResolveAssemblyReference.cache
+D:\src\OdbcImport\OdbcImport\obj\Debug\OdbcImport.Form1.resources
+D:\src\OdbcImport\OdbcImport\obj\Debug\OdbcImport.Properties.Resources.resources
+D:\src\OdbcImport\OdbcImport\obj\Debug\OdbcImport.csproj.GenerateResource.Cache
+D:\src\OdbcImport\OdbcImport\obj\Debug\OdbcImport.exe
+D:\src\OdbcImport\OdbcImport\obj\Debug\OdbcImport.pdb
